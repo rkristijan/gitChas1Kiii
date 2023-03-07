@@ -1,2 +1,4 @@
-vtor test fajl
+prva promena na vtor test fajl
 nov red
+nov red
+
