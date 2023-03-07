@@ -1,4 +1,4 @@
 prva promena na vtor test fajl
 nov red
 nov red
-
+nov red vo develop branch
